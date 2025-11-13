@@ -1,0 +1,252 @@
+{
+    "Tennis": {
+        "name": "Tennis",
+        "equipment": [
+            {
+                "quantity": 4,
+                "name": "tennis racket"
+            },
+            {
+                "quantity": 10,
+                "name": "birdie"
+            }
+        ],
+        "timeslots": [
+            {
+                "name": "Henry",
+                "start": 8,
+                "equipment": [
+                    {
+                        "quantity": 4,
+                        "name": "tennis racket"
+                    },
+                    {
+                        "quantity": 10,
+                        "name": "birdie"
+                    }
+                ],
+                "end": 9
+            },
+            {
+                "start": 9,
+                "equipment": [],
+                "end": 10
+            },
+            {
+                "start": 10,
+                "equipment": [],
+                "end": 11
+            },
+            {
+                "start": 11,
+                "equipment": [],
+                "end": 12
+            },
+            {
+                "start": 12,
+                "equipment": [],
+                "end": 13
+            },
+            {
+                "start": 13,
+                "equipment": [],
+                "end": 14
+            },
+            {
+                "start": 14,
+                "equipment": [],
+                "end": 15
+            },
+            {
+                "start": 15,
+                "equipment": [],
+                "end": 16
+            },
+            {
+                "start": 16,
+                "equipment": [],
+                "end": 17
+            },
+            {
+                "start": 17,
+                "equipment": [],
+                "end": 18
+            },
+            {
+                "start": 18,
+                "equipment": [],
+                "end": 19
+            },
+            {
+                "start": 19,
+                "equipment": [],
+                "end": 20
+            }
+        ]
+    },
+    "Bowling": {
+        "name": "Bowling",
+        "equipment": [{
+            "quantity": 5,
+            "name": "bowling ball"
+        }],
+        "timeslots": [
+            {
+                "name": "Henry",
+                "start": 14,
+                "equipment": [{
+                    "quantity": 3,
+                    "name": "bowling ball"
+                }],
+                "end": 15
+            },
+            {
+                "start": 15,
+                "equipment": [],
+                "end": 16
+            },
+            {
+                "start": 16,
+                "equipment": [],
+                "end": 17
+            },
+            {
+                "start": 17,
+                "equipment": [],
+                "end": 18
+            },
+            {
+                "name": "Jackie",
+                "start": 18,
+                "equipment": [{
+                    "quantity": 2,
+                    "name": "bowling ball"
+                }],
+                "end": 19
+            },
+            {
+                "start": 19,
+                "equipment": [],
+                "end": 20
+            },
+            {
+                "name": "Milo",
+                "start": 20,
+                "equipment": [{
+                    "quantity": 1,
+                    "name": "bowling ball"
+                }],
+                "end": 21
+            },
+            {
+                "name": "Lick",
+                "start": 21,
+                "equipment": [{
+                    "quantity": 4,
+                    "name": "bowling ball"
+                }],
+                "end": 22
+            }
+        ]
+    },
+    "Swimming": {
+        "name": "Swimming",
+        "equipment": [
+            {
+                "quantity": 3,
+                "name": "pool noodle"
+            },
+            {
+                "quantity": 2,
+                "name": "floatie"
+            }
+        ],
+        "timeslots": [
+            {
+                "name": "Lenna",
+                "start": 10,
+                "equipment": [
+                    {
+                        "quantity": 1,
+                        "name": "pool noodle"
+                    },
+                    {
+                        "quantity": 0,
+                        "name": "floatie"
+                    }
+                ],
+                "end": 11
+            },
+            {
+                "start": 11,
+                "equipment": [],
+                "end": 12
+            },
+            {
+                "start": 12,
+                "equipment": [],
+                "end": 13
+            },
+            {
+                "start": 13,
+                "equipment": [],
+                "end": 14
+            },
+            {
+                "name": "Sienna",
+                "start": 14,
+                "equipment": [
+                    {
+                        "quantity": 1,
+                        "name": "pool noodle"
+                    },
+                    {
+                        "quantity": 1,
+                        "name": "floatie"
+                    }
+                ],
+                "end": 15
+            },
+            {
+                "start": 15,
+                "equipment": [],
+                "end": 16
+            },
+            {
+                "start": 16,
+                "equipment": [],
+                "end": 17
+            },
+            {
+                "start": 17,
+                "equipment": [],
+                "end": 18
+            },
+            {
+                "start": 18,
+                "equipment": [],
+                "end": 19
+            },
+            {
+                "start": 19,
+                "equipment": [],
+                "end": 20
+            },
+            {
+                "name": "Henry",
+                "start": 20,
+                "equipment": [
+                    {
+                        "quantity": 2,
+                        "name": "pool noodle"
+                    },
+                    {
+                        "quantity": 2,
+                        "name": "floatie"
+                    }
+                ],
+                "end": 21
+            }
+        ]
+    }
+}

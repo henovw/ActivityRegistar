@@ -1,0 +1,75 @@
+{
+    "Tennis": {
+        "name": "Tennis",
+        "equipment": [],
+        "timeslots": []
+    },
+    "Bowling": {
+        "name": "Bowling",
+        "equipment": [],
+        "timeslots": []
+    },
+    "Swimming": {
+        "name": "Swimming",
+        "equipment": [{
+            "quantity": 1,
+            "name": "pool noodle"
+        }],
+        "timeslots": [
+            {
+                "name": "Henry",
+                "start": 10,
+                "equipment": [],
+                "end": 11
+            },
+            {
+                "start": 11,
+                "equipment": [{
+                    "quantity": 1,
+                    "name": "pool noodle"
+                }],
+                "end": 12
+            },
+            {
+                "start": 12,
+                "equipment": [],
+                "end": 13
+            },
+            {
+                "start": 13,
+                "equipment": [],
+                "end": 14
+            },
+            {
+                "start": 14,
+                "equipment": [],
+                "end": 15
+            },
+            {
+                "start": 15,
+                "equipment": [],
+                "end": 16
+            },
+            {
+                "start": 16,
+                "equipment": [],
+                "end": 17
+            },
+            {
+                "start": 17,
+                "equipment": [],
+                "end": 18
+            },
+            {
+                "start": 18,
+                "equipment": [],
+                "end": 19
+            },
+            {
+                "start": 19,
+                "equipment": [],
+                "end": 20
+            }
+        ]
+    }
+}

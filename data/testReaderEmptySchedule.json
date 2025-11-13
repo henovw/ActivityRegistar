@@ -1,0 +1,17 @@
+{
+    "Tennis": {
+        "name": "Tennis",
+        "equipment": [],
+        "timeslots": []
+    },
+    "Bowling": {
+        "name": "Bowling",
+        "equipment": [],
+        "timeslots": []
+    },
+    "Swimming": {
+        "name": "Swimming",
+        "equipment": [],
+        "timeslots": []
+    }
+}
